@@ -5,6 +5,15 @@
 <h1 align="center">Hi 👋, I'm Adithyan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+# 💫About Me :
+
+
+- 🌱 I’m currently learning **figma,flutter**
+
+- 💬 Ask me about **react,css,html,angular,javascript,python,bootstrap,express,node,ajax**
+
+- 📫 How to reach me **adithyanunair01@gmail.com**
+
 <img align="right" alt="coding" width="500" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 
@@ -15,14 +24,7 @@
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
 
-# 💫About Me :
 
-
-- 🌱 I’m currently learning **figma,flutter**
-
-- 💬 Ask me about **react,css,html,angular,javascript,python,bootstrap,express,node,ajax**
-
-- 📫 How to reach me **adithyanunair01@gmail.com**
 
 
 
