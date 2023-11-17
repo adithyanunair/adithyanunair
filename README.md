@@ -7,15 +7,6 @@
 
 <img align="right" alt="coding" width="500" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
-# 💫About Me :
-
-
-- 🌱 I’m currently learning **synnefo solutions**
-
-- 💬 Ask me about **react,css,html,angular,javascript,python,bootstrap,express,node
-
-- 📫 How to reach me **adithyanunair01@gmail.com**
-
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyanunair&label=Profile%20views&color=0e75b6&style=flat" alt="adithyanunair" /> </p>
 
