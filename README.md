@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **figma,flutter**
 
-- 💬 Ask me about **react,css,html,angular,javascript,python,bootstrap,express,node,ajax**
+- 💬 Ask me about **react,css,html,angular,javascript,python,bootstrap,express,node
 
 - 📫 How to reach me **adithyanunair01@gmail.com**
 
