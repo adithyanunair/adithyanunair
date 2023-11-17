@@ -1,3 +1,7 @@
+[![MasterHead](https://visme.co/blog/wp-content/uploads/2019/10/animated-presentation-software-header.gif)]()
+
+
+
 <h1 align="center">Hi 👋, I'm Adithyan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
@@ -6,7 +10,7 @@
 # 💫About Me :
 
 
-- 🌱 I’m currently learning **figma,flutter**
+- 🌱 I’m currently learning **synnefo solutions**
 
 - 💬 Ask me about **react,css,html,angular,javascript,python,bootstrap,express,node
 
