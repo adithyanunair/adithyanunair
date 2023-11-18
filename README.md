@@ -3,27 +3,33 @@
 
 
 <h1 align="center">Hi 👋, I'm Adithyan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
+<h3 align="center">A passionate full stack developer from India 🌟</h3>
+
+<img align="right" alt="coding" width="350" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
 
 # 💫About Me :
-
+-⚡A passionate full stack developer from India 
 
 - 🌱 I’m currently learning **figma,flutter**
 
-- 💬 Ask me about **react,css,html,angular,javascript,python,bootstrap,express,node,ajax**
-
 - 📫 How to reach me **adithyanunair01@gmail.com**
 
-<img align="right" alt="coding" width="200" src="https://imgs.search.brave.com/uGBeRwzhbiOphYDvGkQnCQYYApKyDw1OrDHAZ44cF9Y/rs:fit:860:0:0/g:ce/aHR0cHM6Ly9naWZk/Yi5jb20vaW1hZ2Vz/L2hpZ2gvYW5pbWF0/ZWQtbWFuLWNvbXB1/dGVyLWNvZGluZy1u/YWU2bWVjMzc4bHNn/MWkzLmdpZg.gif">
+- 
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=adithyanunair&label=Profile%20views&color=0e75b6&style=flat" alt="adithyanunair" /> </p>
 
+
+
+
+
+
+# Profile Trophy ✨
+
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=adithyanunair" alt="adithyanunair" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-
-
 
 
 
@@ -43,8 +49,7 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
-### 😂Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=adithyanunair&icon=1&color=0)](https://visitcount.itsvg.in)
