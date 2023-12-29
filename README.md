@@ -10,7 +10,7 @@
 # 💫About Me :
 -⚡A passionate full stack developer from India 
 
-- 🌱 I’m currently learning **figma,flutter**
+- 🌱 I’m currently learning **figma,angular**
 
 - 📫 How to reach me **adithyanunair01@gmail.com**
 
